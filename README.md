@@ -1,6 +1,6 @@
-# Pre-work - *Tip Calculator*
+# Pre-work - *TipsCal*
 
-**Name of your app** is a tip calculator application for iOS.
+**TipsCal** is a tip calculator application for iOS.
 
 Submitted by: **Lixian Yan**
 
